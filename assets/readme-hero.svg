@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">ANCHOR — Ground the answer. Audit the reasoning.</title>
+<desc id="desc">Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark. NeurIPS 2026, Evaluations and Datasets Track. Temporal, spatial, and audio evidence connect an answer to what a model sees and hears.</desc>
+<rect width="1200" height="490" rx="18" fill="#f5f7f3"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#1d2933">
+<g transform="translate(46 27)" fill="none" stroke="#c41230" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="6" r="3"/><path d="M16 9v19M9 14h14M4 20c0 6 6 9 12 9s12-3 12-9M4 20v5M28 20v5"/></g>
+<text x="94" y="49" font-size="17" font-weight="700" letter-spacing="1.8">NEURIPS 2026</text>
+<text x="1138" y="49" text-anchor="end" font-size="16" letter-spacing="1.3" fill="#66727d">EVALUATIONS &amp; DATASETS TRACK</text>
+<path d="M46 76H1154" stroke="#d6dde1"/>
+<text x="42" y="217" fill="#c41230" font-size="150" font-weight="800" letter-spacing="-10">ANCHOR</text>
+<text x="48" y="285" font-size="43" font-weight="700" letter-spacing="-1.6">Ground the answer.</text>
+<text x="48" y="336" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-style="italic" fill="#c41230" letter-spacing="-1">Audit the reasoning.</text>
+<text x="48" y="390" font-size="22">Audio-Visually Grounded Chain-of-Thought</text>
+<text x="48" y="421" font-size="22">Reasoning Benchmark</text>
+<text x="48" y="461" font-size="16" letter-spacing="2" fill="#66727d">AUDIO · VISION · REASONING</text>
+<path d="M786 112V447" stroke="#d6dde1"/>
+<text x="831" y="130" font-size="16" letter-spacing="1.8" fill="#66727d">FOLLOW THE EVIDENCE</text>
+<rect x="831" y="155" width="321" height="138" rx="10" fill="#fff" stroke="#d6dde1"/>
+<path d="M853 174H883M853 174V197M1130 174H1100M1130 174V197M853 273H883M853 273V250M1130 273H1100M1130 273V250" fill="none" stroke="#c41230" stroke-width="2.5"/>
+<rect x="925" y="194" width="123" height="66" rx="3" fill="#c41230" fill-opacity=".07" stroke="#c41230" stroke-width="1.5"/>
+<text x="870" y="209" font-family="monospace" font-size="18" fill="#66727d">[t]</text>
+<text x="986" y="234" text-anchor="middle" font-family="monospace" font-size="22" fill="#c41230">[x, y]</text>
+<path d="M991 294V316" stroke="#c41230" stroke-width="1.5"/>
+<g stroke="#c41230" stroke-width="3" stroke-linecap="round"><path d="M850 329.5v5"/><path d="M860 327.5v9"/><path d="M870 325.0v14"/><path d="M880 322.0v20"/><path d="M890 326.0v12"/><path d="M900 328.0v8"/><path d="M910 324.0v16"/><path d="M920 319.5v25"/><path d="M930 322.0v20"/><path d="M940 326.0v12"/><path d="M950 328.5v7"/><path d="M960 324.5v15"/><path d="M970 320.5v23"/><path d="M980 323.5v17"/><path d="M990 327.0v10"/><path d="M1000 329.0v6"/><path d="M1010 326.0v12"/><path d="M1020 321.0v22"/><path d="M1030 319.0v26"/><path d="M1040 324.5v15"/><path d="M1050 327.5v9"/><path d="M1060 323.0v18"/><path d="M1070 320.0v24"/><path d="M1080 325.0v14"/><path d="M1090 328.5v7"/><path d="M1100 326.0v12"/><path d="M1110 323.0v18"/><path d="M1120 327.5v9"/><path d="M1130 329.5v5"/></g>
+<path d="M991 348V371" stroke="#c41230" stroke-width="1.5"/>
+<rect x="831" y="373" width="321" height="74" rx="10" fill="#c41230"/>
+<text x="991" y="404" text-anchor="middle" font-size="15" letter-spacing="1.4" fill="#fff">EVIDENCE-LINKED</text>
+<text x="991" y="431" text-anchor="middle" font-size="23" font-weight="700" fill="#fff">Reasoning + answer</text>
+</g></svg>
