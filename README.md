@@ -20,9 +20,22 @@
 </p>
 
 <p align="center">
-  <b>Joel Julin*</b> · <b>Souraja Kundu*</b> · Liza Dahiya · George Z Wei ·<br />
-  Liuyue Xie · Jingru Yi · Xu Zhang · Hao Yang · Laszlo A. Jeni<br />
-  <sub>Carnegie Mellon University · Amazon AGI &nbsp; | &nbsp; * Equal contribution</sub>
+  <b>Joel Julin</b><sup>1,*</sup> · <b>Souraja Kundu</b><sup>1,*</sup> · Liza Dahiya<sup>1</sup> · George Z Wei<sup>1</sup> ·<br />
+  Liuyue Xie<sup>2</sup> · Jingru Yi<sup>2</sup> · Xu Zhang<sup>2</sup> · Hao Yang<sup>2</sup> · Laszlo A. Jeni<sup>1</sup><br />
+  <sub>* Equal contribution</sub>
+</p>
+
+<p align="center">
+  <img src="assets/logos/cmu.png" width="76" height="76" align="middle" alt="Carnegie Mellon University logo" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logos/amazon-dark.svg" />
+    <img src="assets/logos/amazon.svg" width="150" height="45" align="middle" alt="Amazon logo" />
+  </picture>
+</p>
+
+<p align="center">
+  <sup>1</sup> Carnegie Mellon University · <sup>2</sup> Amazon AGI
 </p>
 
 ## 01 / The benchmark
