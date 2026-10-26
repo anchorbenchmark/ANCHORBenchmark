@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://anchorbenchmark.github.io/"><img src="https://img.shields.io/badge/Explore-Project_website-c41230?style=flat-square&amp;labelColor=1d2933" alt="Project website" /></a>
-  <a href="https://anchorbenchmark.github.io/assets/ANCHOR_main_paper.pdf"><img src="https://img.shields.io/badge/Read-Paper-c41230?style=flat-square&amp;labelColor=1d2933" alt="Read the paper" /></a>
+  <a href="https://arxiv.org/pdf/2610.22964"><img src="https://img.shields.io/badge/Read-Paper-c41230?style=flat-square&amp;labelColor=1d2933" alt="Read the paper" /></a>
   <a href="https://anchorbenchmark.github.io/assets/ANCHOR_supp.pdf"><img src="https://img.shields.io/badge/Read-Supplement-c41230?style=flat-square&amp;labelColor=1d2933" alt="Read the supplement" /></a>
   <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-66727d?style=flat-square&amp;labelColor=1d2933" alt="License: CC BY-NC-ND 4.0" /></a>
 </p>
